@@ -1,0 +1,5 @@
+numpy 
+pickle
+streamlit
+warning
+scikit-learn == 1.2.2
