@@ -13,7 +13,7 @@ import sklearn
 warnings.filterwarnings('ignore')
 
 #loaded the saved model
-loaded_model = pickle.load(open("D:/my programs/machine learning/New folder/DiabetesPrediction-Model/trained_model.sav", 'rb'))
+loaded_model = pickle.load(open("Streamlit_rakuten/D:/my programs/machine learning/New folder/DiabetesPrediction-Model/trained_model.sav", 'rb'))
 
 
   
