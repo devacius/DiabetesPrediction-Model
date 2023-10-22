@@ -9,10 +9,11 @@ import numpy as np
 import pickle 
 import streamlit as st
 import warnings
+import sklearn
 warnings.filterwarnings('ignore')
 
 #loaded the saved model
-loaded_model = pickle.load(open("./trained_model.sav", 'rb'))
+loaded_model = pickle.load(open("D:/my programs/machine learning/New folder/DiabetesPrediction-Model/trained_model.sav", 'rb'))
 
 
   
