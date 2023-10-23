@@ -12,5 +12,6 @@ For using the project follow the steps:-
 6) ![image](https://github.com/devacius/DiabetesPrediction-Model/assets/81462832/1dfbf146-826b-489b-87a8-04eaccb90f66)
 7) The final result will be as:-
 8) ![image](https://github.com/devacius/DiabetesPrediction-Model/assets/81462832/05c12441-c16a-4ff1-bcbe-2406915c69ee)
+9) It is publicly deployed for you to use at streamlit cloud - (https://diabetespredictiondevacius.streamlit.app/)
 
 
